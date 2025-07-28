@@ -57,13 +57,13 @@ Includes: user mention, join date, account creation, channel link, and avatar.
 
 ###### **👤 Credits**
 
-############# 👨‍💻 Developed by: Rasan Fernando 
+## 👨‍💻 Developed by: Rasan Fernando 
 
-############# 🎨 Bot Design & UX: Custom banners, embeds, and logic by Rasan
+## 🎨 Bot Design & UX: Custom banners, embeds, and logic by Rasan
 
-############# 💬 Special Thanks: All staff testers and Support Discord
+## 💬 Special Thanks: All staff testers and Support Discord
 
-############# 🛠️ Powered by: discord.py, Python 3.11+
+## 🛠️ Powered by: discord.py, Python 3.11+
 
 
 
