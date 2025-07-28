@@ -96,7 +96,7 @@ If this bot helped your server or saved your time, please consider:
 </p>
 ## ⚙️ Setup Guide
 
-### 1. 📥 Clone the Repo
+## **1. 📥 Clone the Repo**
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/discord-support-voice-bot.git
