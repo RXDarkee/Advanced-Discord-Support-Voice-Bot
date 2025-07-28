@@ -2,7 +2,7 @@
 
 > A modern, smart Discord bot for **FiveM servers**, **support communities**, and **gaming hubs**. It auto-welcomes users joining a voice support channel and alerts your staff team privately with full user info. Fully automated, sleek, and easy to use.
 
-![Banner](https://cdn.discordapp.com/attachments/1399310612877676578/1399311154400202762/VszAAM6.png?ex=68888991&is=68873811&hm=c2de95212ad1ea334d2b7d30972b286ab5bebb504639555efab989fb01318974&)
+![Banner]()
 
 ---
 
