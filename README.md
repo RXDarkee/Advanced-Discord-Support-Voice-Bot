@@ -10,7 +10,7 @@
 
 - ✅ Sends a stylish **welcome embed** to users joining the support voice channel
 - 🚨 Privately alerts staff with full **user details, avatar, join dates, and jump links**
-- 🧹 Automatically deletes all messages when the user leaves
+- **🧹 Automatically deletes all messages when the user leaves**
 - 🎨 Clean, animated, and fully **embedded messages**
 - 🔒 Validates configuration on startup (token, server ID, role, voice channel)
 - ⚡ Lightweight, fast, async-powered with `discord.py`
