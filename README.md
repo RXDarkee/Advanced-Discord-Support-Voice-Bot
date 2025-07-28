@@ -87,8 +87,8 @@ If this bot helped your server or saved your time, please consider:
 <h3 align="center">📸 Screenshots</h3>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1399312536918163518/1399329523144724511/gzVa0H3.png?ex=68889aac&is=6887492c&hm=349c253b77ae9ccf6e20448c887c70de5760408bed4b85c13daac6665d0a3eb1&" alt="User Welcome Screenshot" width="45%" />
-  <img src="https://cdn.discordapp.com/attachments/1399312561056387185/1399329182906843156/hHcHJ8n.png?ex=68889a5b&is=688748db&hm=eb7153993843c190b6028d33c10686f35866fb5713b94929d51c02657e8b3c55&" alt="Staff Alert Screenshot" width="45%" />
+  <img src="https://cdn.discordapp.com/attachments/1399312536918163518/1399330403940302900/hwAUbii.png?ex=68889b7e&is=688749fe&hm=19e12e76cc78bb5645a6b52663aefacf857f74d233ac34bdc929c501db76a0b1&" alt="User Welcome Screenshot" width="45%" />
+  <img src="https://cdn.discordapp.com/attachments/1399312536918163518/1399330660128264262/ajGu4KZ.png?ex=68889bbb&is=68874a3b&hm=40bd43b2a58aa640b3bec136fc953387030e5c225a1d64b49a388c88c2c75e52&" alt="Staff Alert Screenshot" width="45%" />
 </p>
 
 <p align="center">
