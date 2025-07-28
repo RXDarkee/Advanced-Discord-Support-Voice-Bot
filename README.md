@@ -31,7 +31,7 @@
 📺 **Watch the bot in action on YouTube:**  
 [![Watch Now](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://your-youtube-link.com)
 
-> Drop your actual video link above!
+
 
 ---
 
