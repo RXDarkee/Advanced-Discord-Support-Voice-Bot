@@ -41,6 +41,31 @@ Automatically sent when a user joins the support VC.
 Includes: greeting, instructions, image, and jump link.
 
 
+## **👮 Alert DM to Staff/Admin**
+Sent to each staff/admin member with a specific role.
+Includes: user mention, join date, account creation, channel link, and avatar.
+
+
+📂 Project Structure
+
+``` 📁 discord-support-voice-bot
+│
+├── bot.py                # Main bot logic
+├── .env                  # Environment variables (excluded from GitHub)
+└── requirements.txt      # Python dependencies
+```
+
+###### **👤 Credits**
+
+############# 👨‍💻 Developed by: Rasan Fernando 
+
+############# 🎨 Bot Design & UX: Custom banners, embeds, and logic by Rasan
+
+############# 💬 Special Thanks: All staff testers and Support Discord
+
+############# 🛠️ Powered by: discord.py, Python 3.11+
+
+
 
 ## ⚙️ Setup Guide
 
