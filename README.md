@@ -2,7 +2,7 @@
 
 > A modern, smart Discord bot for **FiveM servers**, **support communities**, and **gaming hubs**. It auto-welcomes users joining a voice support channel and alerts your staff team privately with full user info. Fully automated, sleek, and easy to use.
 
-![Banner](https://cdn.discordapp.com/attachments/1338114250161524787/1368695350835282070/GIF1.gif)
+![Banner](https://cdn.discordapp.com/attachments/1399310612877676578/1399311154400202762/VszAAM6.png?ex=68888991&is=68873811&hm=c2de95212ad1ea334d2b7d30972b286ab5bebb504639555efab989fb01318974&)
 
 ---
 
@@ -57,13 +57,13 @@ Includes: user mention, join date, account creation, channel link, and avatar.
 
 ###### **👤 Credits**
 
-## 👨‍💻 Developed by: Rasan Fernando 
+  👨‍💻 Developed by: Rasan Fernando 
 
-## 🎨 Bot Design & UX: Custom banners, embeds, and logic by Rasan
+  🎨 Bot Design & UX: Custom banners, embeds, and logic by Rasan
 
-## 💬 Special Thanks: All staff testers and Support Discord
+  💬 Special Thanks: All staff testers and Support Discord
 
-## 🛠️ Powered by: discord.py, Python 3.11+
+  🛠️ Powered by: discord.py, Python 3.11+
 
 
 
@@ -74,3 +74,6 @@ Includes: user mention, join date, account creation, channel link, and avatar.
 ```bash
 git clone https://github.com/YOUR_USERNAME/discord-support-voice-bot.git
 cd discord-support-voice-bot
+pip install -r requirements.txt
+python bot.py
+```
