@@ -65,6 +65,32 @@ Includes: user mention, join date, account creation, channel link, and avatar.
 
   🛠️ Powered by: discord.py, Python 3.11+
 
+## **📜 License & Usage**
+
+This project is free for personal use, but:
+
+✅ Credit must be given to the developer.
+
+❌ No re-selling or uploading without permission.
+
+✅ You’re free to fork, remix, and contribute.
+
+**⭐ Support This Project**
+If this bot helped your server or saved your time, please consider:
+
+⭐ Starring the repo
+
+📢 Sharing with other FiveM/Gaming/Support server owners
+
+❤️ Giving credit where it’s due
+
+## **ScreenShots 🖼️** 
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1399312536918163518/1399329523144724511/gzVa0H3.png?ex=68889aac&is=6887492c&hm=349c253b77ae9ccf6e20448c887c70de5760408bed4b85c13daac6665d0a3eb1&" alt="Screenshot 1" width="45%" />
+     **Staff Member ScreenShot**
+  <img src="https://cdn.discordapp.com/attachments/1399312561056387185/1399329182906843156/hHcHJ8n.png?ex=68889a5b&is=688748db&hm=eb7153993843c190b6028d33c10686f35866fb5713b94929d51c02657e8b3c55&" alt="Screenshot 2" width="45%" />
+</p>
 
 
 ## ⚙️ Setup Guide
