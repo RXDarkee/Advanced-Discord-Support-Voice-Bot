@@ -35,6 +35,13 @@
 
 ---
 
+## **🖼️ Embed Previews**
+👋 Welcome DM to User
+Automatically sent when a user joins the support VC.
+Includes: greeting, instructions, image, and jump link.
+
+
+
 ## ⚙️ Setup Guide
 
 ### 1. 📥 Clone the Repo
